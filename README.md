@@ -7,8 +7,8 @@
 ## Demo Video
 
 <video width="800" height="600" controls>
-  <source src="result/demo.mkv" type="video/mp4">
-  <source src="result/demo.mkv" type="video/x-msvideo">
+  <!-- <source src="result/demo.mkv" type="video/mp4"> -->
+  <source src="result/demo.mkv" type="video/x-matroska">
   Your browser does not support the video tag.
 </video>
 
