@@ -1,8 +1,10 @@
 # GameEngine-HW2
 ---
-## Demo Video
+## Screenshot
 
 ![Game Engine Demo](result/image.png)
+
+## Demo Video
 
 <video width="800" height="600" controls>
   <source src="result/demo.mkv" type="video/mp4">
